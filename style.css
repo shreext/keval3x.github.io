@@ -1,0 +1,121 @@
+body{
+    background-color: #1b1b1b;
+}
+.navxt{
+    background-color: #1b1b1b;
+}
+.imgxt{
+    background-color: #1b1b1b;
+}
+.btx{
+    background-color: aliceblue;
+    color: #1b1b1b;
+}
+.bts{
+    border: 2px solid whitesmoke;
+    background-color: #1b1b1b;
+    color: whitesmoke;
+    margin: 10px;
+    border-radius: 8px;
+}
+.bts:hover{
+    transform: scale(1.1);
+}
+.bd{
+    border: 3px solid wheat;
+}
+.txt{
+    font-size: 15px;
+    font-weight: bold;
+    color: aliceblue;
+}
+.txts{
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.containerx{
+    width: 400px;
+    font-family: 'Roboto', sans-serif;
+margin:0 auto;
+}
+.wrapper {
+    margin-bottom: 35px;
+    position: relative;
+        overflow-x:hidden;
+        
+}
+.content {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1716;
+    margin: 0;
+}
+.wrapper:before{
+    width: 100%;
+    height: 5px;
+    content: "";
+    display: block;
+    position: absolute;
+    background: #959595;
+    bottom: 0;
+}
+.skill-bar {
+    width: 100%;
+    height: 5px;
+    background:rgb(234, 179, 8);
+    display: block;
+    position: relative;
+}
+
+/* SKILL 1 */
+.skill1{
+    width: 85%;
+        
+}
+.skill2{
+    width: 65%;
+        
+}
+.skill3{
+    width: 80%;
+        
+}
+.skill4{
+    width: 85%;
+        
+}
+.skill5{
+    width: 80%;
+        
+}
+.skill6{
+    width: 50%;
+        
+}
+.skill7{
+    width: 45%;
+        
+}
+.skill8{
+    width: 85%;
+        
+}
+.skill-bar span{
+    position: absolute;
+    border-top: 5px solid #f4392f;
+    top: -30px;
+    padding: 0;
+    font-size: 18px;
+    padding: 3px 0;
+    font-weight: 500;
+}
+.skill-bar {
+    position: relative;
+        
+}
+
+.skill1 .skill-count1 {
+    right: 0;
+}
+
